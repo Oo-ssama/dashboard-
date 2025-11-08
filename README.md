@@ -20,10 +20,10 @@ An interactive **Supply Chain Dashboard** built with **Streamlit** that lets you
 
 Follow these steps to install and launch the app.
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository and access 
 ```bash
-[git clone https://github.com/<your-username>/supply-chain-dashboard.git
-](https://github.com/Oo-ssama/dashboard-.git)
+git clone https://github.com/Oo-ssama/dashboard-
+
 cd dashboard-
 ```
 
