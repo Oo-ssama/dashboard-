@@ -22,8 +22,9 @@ Follow these steps to install and launch the app.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/supply-chain-dashboard.git
-cd supply-chain-dashboard
+[git clone https://github.com/<your-username>/supply-chain-dashboard.git
+](https://github.com/Oo-ssama/dashboard-.git)
+cd dashboard-
 ```
 
 ### 2️⃣ Install required dependencies
@@ -36,7 +37,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 Once dependencies are installed, start the Streamlit app using:
 ```bash
-streamlit run streamlit_dashboard_persistent.py
+streamlit run Dashboard.py
 ```
 Then open the local URL displayed in your terminal (usually [http://localhost:8501](http://localhost:8501)).
 
