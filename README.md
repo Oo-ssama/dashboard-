@@ -24,7 +24,7 @@ Follow these steps to install and launch the app.
 ```bash
 git clone https://github.com/Oo-ssama/dashboard-
 
-cd dashboard-
+cd dashboard
 ```
 
 ### 2️⃣ Install required dependencies
